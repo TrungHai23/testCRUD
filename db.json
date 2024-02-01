@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 71,
+      "title": "Women Shoulder Bags",
+      "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies",
+      "price": 46,
+      "discountPercentage": 14.6
+    },
+    {
+      "id": 86,
+      "title": "Bluetooth Aux",
+      "description": "Bluetooth Aux Bluetooth Car Aux Car Bluetooth Transmitter Aux Audio Receiver Handfree Car Bluetooth Music Receiver Universal 3.5mm Streaming A2DP Wireless Auto AUX Audio Adapter With Mic For Phone MP3",
+      "price": 25,
+      "discountPercentage": 10.56
+    },
+    {
+      "title": "dfreegfer",
+      "description": "dadfdwdadads",
+      "price": "dada",
+      "discountPercentage": "dasdad",
+      "id": 87
+    },
+    {
+      "title": "ddewdwe",
+      "description": "dadfdwdadads",
+      "price": "dada",
+      "discountPercentage": "11133",
+      "id": 88
+    }
+  ]
+}
